@@ -1,7 +1,6 @@
 [By Invitation](https://www.economist.com/by-invitation/2024/07/22/a-prominent-donor-on-why-the-democrats-shouldnt-anoint-kamala-harris) | The American election
-# A prominent donor on why the Democrats shouldn’t anoint Kamala Harris
-###### A competition to replace Joe Biden would better serve the party, and the country, argues Joe Ravitch
-
+<h1>A prominent donor on why the Democrats shouldn’t anoint Kamala Harris</h1>
+<h3><span style="color:grey;">A competition to replace Joe Biden would better serve the party, and the country, argues Joe Ravitch</span></h3>  
 ![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240722_BID001.jpg)
 
 Jul 22nd 2024
