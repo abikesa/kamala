@@ -1,20 +1,4 @@
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Article Title</title>
-  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-  <style>
-    .footnote {
-      font-family: 'Great Vibes', Cursive;
-      font-style: italic;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
-</head>
-
-
 
 [By Invitation](https://www.economist.com/by-invitation/2024/07/22/a-prominent-donor-on-why-the-democrats-shouldnt-anoint-kamala-harris) | The American election
 <h1>A prominent donor on why the Democrats shouldn’t anoint Kamala Harris</h1>
@@ -44,5 +28,5 @@ The best thing the Democrats collectively can do is to spend the time before the
 Winning this election is an existential challenge for the Democrats—and for the country as a whole. Mr Biden was the ideal transitional president. But now we need a new vision to unite Americans against the dark, 1930s-style “America First” pablum of the Trump cult. The Democrats’ biggest mistake would be to squander this opportunity and accept a coronation imposed by an unpopular and ageing president. This is a historic chance to do something different and bold. I hope they seize the moment.<span style="color:red;">■</span>
 
 
-  <p class="footnote">*Joe Ravitch, a long-time Democratic donor, is a co-founder and partner of the Raine Group, a global merchant bank.*</p>
+  *Joe Ravitch, a long-time Democratic donor, is a co-founder and partner of the Raine Group, a global merchant bank.*
 
